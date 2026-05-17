@@ -261,7 +261,7 @@ All packages are pinned to exact versions — no version conflicts.
 
 ### 5. Set your Google API key
 
-Open `adk_agent/.env` and replace the placeholder:
+Create `adk_agent/.env` and paste the following:
 
 ```
 GOOGLE_API_KEY=your-actual-key-here
