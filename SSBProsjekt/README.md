@@ -225,7 +225,7 @@ Orchestrator synthesises both results → final answer
 ### 1. Get the code
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/eliotkfs/konrad-SSB-Agentisk-System.git
 cd ssb_housing
 ```
 
